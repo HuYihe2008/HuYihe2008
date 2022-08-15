@@ -23,8 +23,8 @@
 #### Top Repositories
 
 
-<a href="https://github.com/HuYihe2008/nonebot_plugin_admin_hello">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuYihe2008&repo=nonebot_plugin_admin_hello&theme=buefy" />
+<a href="https://github.com/HuYihe2008/nonebot_plugin_manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuYihe2008&repo=nonebot_plugin_manager&theme=buefy" />
 </a>
 <a href="https://github.com/HuYihe2008/JYDmirra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuYihe2008&repo=JYDmirra&theme=buefy" />
