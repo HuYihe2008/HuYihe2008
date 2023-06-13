@@ -1,12 +1,10 @@
-**About me**
-
-- 💼 在浙江的某初中学习（快毕业了） 
+**About me** 
 
 - 📈 构建了许多没用的仓库
 
 - ❤️ 主要喜欢用python、html、css编写代码，偶尔用用go语言，本人比较讨厌js但不得不用。。。
 
-- 💬 关于联系我！ [here](https://jamyido.tk)
+- 💬 关于联系我！ [here](https://space.bilibili.com/470106870)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
